@@ -17,10 +17,10 @@ ultron@~1.1.0:
   resolved "https://registry.yarnpkg.com/ultron/-/ultron-1.1.1.tgz#9fe1536a10a664a65266a1e3ccf85fd36302bc9c"
   integrity sha512-UIEXBNeYmKptWH6z8ZnqTeS8fV74zG0/eRU9VGkpzz+LIJNs8W/zM/L+7ctCkRrgbNnnR0xxw4bKOr0cW0N0Og==
 
-ws@3.3.0:
-  version "3.3.0"
-  resolved "https://registry.yarnpkg.com/ws/-/ws-3.3.0.tgz#f8b948a1378af7efa702f5513da08dd516897c31"
-  integrity sha512-XPwGf44sJI6zgBpiWk44HQG6pK7HABl4F77Uydtb6BcgTC8fFpXHKM8bGu4AdBMtIjREDbNlvGitRZnwi0vXCA==
+ws@3.3.1:
+  version "3.3.1"
+  resolved "https://registry.yarnpkg.com/ws/-/ws-3.3.1.tgz#d97e34dee06a1190c61ac1e95f43cb60b78cf939"
+  integrity sha512-8A/uRMnQy8KCQsmep1m7Bk+z/+LIkeF7w+TDMLtX1iZm5Hq9HsUDmgFGaW1ACW5Cj0b2Qo7wCvRhYN2ErUVp/A==
   dependencies:
     async-limiter "~1.0.0"
     safe-buffer "~5.1.0"
